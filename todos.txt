@@ -1,4 +1,3 @@
-she
-re
+('she\n',)re
 re
 re
